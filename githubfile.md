@@ -21,7 +21,7 @@ We can also create list formatting here:
 Another paragraph start from here!
 
 >**Note:** This can be a note to the file.
->
+
 >**Notes:** This can be note 2.
 
 You can also use links easily in .md files, like [PW Skills](www.pwskills.com)
